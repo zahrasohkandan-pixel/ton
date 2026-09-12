@@ -1,4 +1,4 @@
-.⁶<div align="center">
+..⁶<div align="center">
   <a href="https://ton.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./doc/assets/logo_dark.svg">
